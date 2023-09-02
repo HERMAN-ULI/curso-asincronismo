@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "asincronismo"
+  ],
+  "author": "Herman Ulises Guzman blackclo.76@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
